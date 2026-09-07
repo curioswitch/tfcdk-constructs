@@ -13,7 +13,7 @@
   "packageManager": "bun@1.2.2",
   "peerDependencies": {
     "@cdktn/provider-github": "^16.0.0 || ^17.0.0 || ^18.0.0",
-    "@cdktn/provider-google": "^17.0.0",
+    "@cdktn/provider-google": "^17.0.0 || ^20.0.0",
     "@cdktn/provider-google-beta": "^17.0.0",
     "@cdktn/provider-random": "^13.0.0",
     "cdktn": "^0.23.0-pre.29",
@@ -22,7 +22,7 @@
   "devDependencies": {
     "@biomejs/biome": "^2.4.12",
     "@cdktn/provider-github": "^18.0.0",
-    "@cdktn/provider-google": "^19.0.0",
+    "@cdktn/provider-google": "^20.0.0",
     "@cdktn/provider-google-beta": "^17.0.0",
     "@cdktn/provider-random": "^15.0.0",
     "@types/node": "^26.0.0",
